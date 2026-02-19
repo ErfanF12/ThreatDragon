@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "CUD University Threat Model 2025",
+    "owner": "Erfan Fakour Motlagh",
+    "description": "Threat model for Canadian University Dubai digital campus",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
